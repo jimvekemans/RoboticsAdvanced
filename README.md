@@ -1,9 +1,9 @@
 # Robotics Advanced 2019 - 2020
 
 ## Udemy Courses:
-> https://www.udemy.com/course/ros-essentials/learn/
-> https://www.udemy.com/course/ros-navigation/learn/
-> https://www.udemy.com/course/pythoncv/learn/
+> https://www.udemy.com/course/ros-essentials/learn/ <br>
+> https://www.udemy.com/course/ros-navigation/learn/ <br>
+> https://www.udemy.com/course/pythoncv/learn/ <br>
 
 # Goals
 ### Week 1
